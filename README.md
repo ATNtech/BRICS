@@ -15,5 +15,7 @@
 | Николай  Е.В    | Специалист по машинному обучению  |  Настройка моделей машинного обучения |
   
   
-Ссылка на excel с задачами 
-https://docs.google.com/spreadsheets/d/1qRpqb2FO7hgjN-KlwgKyATPJQn8t5vvJ1AEydgEu26M/edit?usp=sharing
+Ссылка на excel с задачами   
+https://docs.google.com/spreadsheets/d/1qRpqb2FO7hgjN-KlwgKyATPJQn8t5vvJ1AEydgEu26M/edit?usp=sharing  
+
+Канбан доска с задачами https://docs.google.com/spreadsheets/d/1RciU75dmpTuJrUWmKA4xKpLYEH_m2gYxOQCXBv1mhlw/edit?gid=0#gid=0
