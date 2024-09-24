@@ -7,10 +7,10 @@ Such a system can be used for self-driving cars and provide them with increased 
 that can see the situation on the road from an aerial view.    
 | Name  | Role | Responsibilities  |
 | ------------- | ------------- | ------------- |
-| Volkova V.E. | Timlid | Team management |
-| Akulin M.A. | Programmer | Combining different components |
-| Vladislav G.E. | Drone Specialist | Drone customization and assembly |
-| Nikolai E.V. | Machine Learning Specialist | Setting up machine learning models |  
+| Volkova Evgeniya | Timlid | Team management |
+| Akulin Maxim | Programmer | Combining different components |
+| Garchev Vladislav | Drone Specialist | Drone customization and assembly |
+| Ermakov Nikita | Machine Learning Specialist | Setting up machine learning models |  
   
 Link to excel with tasks   
 https://docs.google.com/spreadsheets/d/1qRpqb2FO7hgjN-KlwgKyATPJQn8t5vvJ1AEydgEu26M/edit?usp=sharing 
@@ -31,10 +31,10 @@ Kanban board with tasks
   
 | ФИО  | Роль | Обязоности  |
 | ------------- | ------------- | ------------- |
-| Волкова В.Е| Тимлид  |  Управление командой |
-| Акулин  М.А    | программист  | Объеденение разных компонентов  |
-| Владислав  Г.Е    | Специалист по дронам  | Настройка и сборка дронов  |
-| Николай  Е.В    | Специалист по машинному обучению  |  Настройка моделей машинного обучения |
+| Волкова Евгения| Тимлид  |  Управление командой |
+| Акулин Максим| программист  | Объеденение разных компонентов  |
+| Гарчев Владислав| Специалист по дронам  | Настройка и сборка дронов  |
+| Ермаков Никита| Специалист по машинному обучению  |  Настройка моделей машинного обучения |
   
   
 Ссылка на excel с задачами   
