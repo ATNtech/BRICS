@@ -20,7 +20,7 @@ ANT Team:
 
 | Name  | Role | Responsibilities  |
 | ------------- | ------------- | ------------- |
-| Volkova Evgeniya | Timlead | Team management |
+| Volkova Evgeniya | Team lead | Team management |
 | Akulin Maxim | Programmer | Combining different components |
 | Garchev Vladislav | Drone Specialist | Drone customization and assembly |
 | Ermakov Nikita | Machine Learning Specialist | Setting up machine learning models |  
