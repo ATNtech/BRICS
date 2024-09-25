@@ -31,7 +31,9 @@ https://docs.google.com/spreadsheets/d/1qRpqb2FO7hgjN-KlwgKyATPJQn8t5vvJ1AEydgEu
 Kanban board with tasks  
 
   https://docs.google.com/spreadsheets/d/1RciU75dmpTuJrUWmKA4xKpLYEH_m2gYxOQCXBv1mhlw/edit?gid=0#gid=0  
-
+  
+Test Plan
+https://docs.google.com/document/d/1y3nkBxFFLGJGYDrhgnNVdLZFFnp5tQ7g9LXwzE3qUSI/edit?usp=sharing
 
         
 Разработка системы для автономного движения ровера по дорогам общего пользования в содействии с дроном.  
@@ -65,3 +67,6 @@ Kanban board with tasks
 https://docs.google.com/spreadsheets/d/1qRpqb2FO7hgjN-KlwgKyATPJQn8t5vvJ1AEydgEu26M/edit?usp=sharing  
 
 Канбан доска с задачами https://docs.google.com/spreadsheets/d/1RciU75dmpTuJrUWmKA4xKpLYEH_m2gYxOQCXBv1mhlw/edit?gid=0#gid=0
+
+Тест план:
+https://docs.google.com/document/d/1y3nkBxFFLGJGYDrhgnNVdLZFFnp5tQ7g9LXwzE3qUSI/edit?usp=sharing
