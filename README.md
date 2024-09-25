@@ -14,7 +14,7 @@ Functional Features of the Solution:
 5. Drone identifying signs and traffic lights.
 6. Drone detecting traffic violations.
 
-Tecnology stack: Gazebo, Ardupilot, Python, YOLO8, ROS, OpenCV   
+Technology stack: Gazebo, Ardupilot, Python, YOLO8, ROS, OpenCV   
 
 ANT Team:
 
