@@ -1,0 +1,4803 @@
+<sdf version='1.7'>
+  <world name='default'>
+    <model name='aruco_2_49'>
+      <static>1</static>
+      <link name='aruco_2_49_link'>
+        <visual name='visual_marker_2_0'>
+          <pose>0 6 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_0</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_1'>
+          <pose>1 6 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_1</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_2'>
+          <pose>2 6 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_2</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_3'>
+          <pose>3 6 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_3</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_4'>
+          <pose>4 6 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_4</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_5'>
+          <pose>5 6 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_5</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_6'>
+          <pose>6 6 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_6</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_7'>
+          <pose>0 5 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_7</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_8'>
+          <pose>1 5 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_8</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_9'>
+          <pose>2 5 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_9</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_10'>
+          <pose>3 5 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_10</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_11'>
+          <pose>4 5 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_11</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_12'>
+          <pose>5 5 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_12</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_13'>
+          <pose>6 5 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_13</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_14'>
+          <pose>0 4 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_14</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_15'>
+          <pose>1 4 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_15</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_16'>
+          <pose>2 4 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_16</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_17'>
+          <pose>3 4 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_17</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_18'>
+          <pose>4 4 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_18</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_19'>
+          <pose>5 4 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_19</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_20'>
+          <pose>6 4 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_20</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_21'>
+          <pose>0 3 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_21</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_22'>
+          <pose>1 3 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_22</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_23'>
+          <pose>2 3 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_23</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_24'>
+          <pose>3 3 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_24</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_25'>
+          <pose>4 3 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_25</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_26'>
+          <pose>5 3 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_26</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_27'>
+          <pose>6 3 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_27</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_28'>
+          <pose>0 2 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_28</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_29'>
+          <pose>1 2 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_29</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_30'>
+          <pose>2 2 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_30</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_31'>
+          <pose>3 2 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_31</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_32'>
+          <pose>4 2 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_32</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_33'>
+          <pose>5 2 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_33</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_34'>
+          <pose>6 2 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_34</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_35'>
+          <pose>0 1 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_35</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_36'>
+          <pose>1 1 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_36</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_37'>
+          <pose>2 1 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_37</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_38'>
+          <pose>3 1 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_38</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_39'>
+          <pose>4 1 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_39</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_40'>
+          <pose>5 1 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_40</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_41'>
+          <pose>6 1 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_41</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_42'>
+          <pose>0 0 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_42</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_43'>
+          <pose>1 0 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_43</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_44'>
+          <pose>2 0 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_44</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_45'>
+          <pose>3 0 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_45</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_46'>
+          <pose>4 0 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_46</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_47'>
+          <pose>5 0 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_47</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='visual_marker_2_48'>
+          <pose>6 0 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_kbt_map_txt/materials/scripts</uri>
+              <uri>model://aruco_kbt_map_txt/materials/textures</uri>
+              <name>aruco/marker_2_48</name>
+            </script>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>0 0 0 0 -0 0</pose>
+    </model>
+    <light name='sun' type='directional'>
+      <cast_shadows>1</cast_shadows>
+      <pose>0 0 10 0 -0 0</pose>
+      <diffuse>0.8 0.8 0.8 1</diffuse>
+      <specular>0.2 0.2 0.2 1</specular>
+      <attenuation>
+        <range>1000</range>
+        <constant>0.9</constant>
+        <linear>0.01</linear>
+        <quadratic>0.001</quadratic>
+      </attenuation>
+      <direction>-0.5 0.1 -0.9</direction>
+      <spot>
+        <inner_angle>0</inner_angle>
+        <outer_angle>0</outer_angle>
+        <falloff>0</falloff>
+      </spot>
+    </light>
+    <model name='parquet_plane'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='collision'>
+          <geometry>
+            <box>
+              <size>200 200 0.02</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>200 200 0.02</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://parquet_plane/materials/scripts</uri>
+              <uri>model://parquet_plane/materials/textures</uri>
+              <name>parquet</name>
+            </script>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>0 0 -0.01 0 -0 0</pose>
+    </model>
+    <actor name='animated_box'>
+      <link name='link'>
+        <visual name='visual_marker_2_49'>
+          <pose>0 0 0 0 -0 1.5708</pose>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>0.44 0.44 0.001</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://aruco_aroco_49_txt/materials/scripts</uri>
+              <uri>model://aruco_aroco_49_txt/materials/textures</uri>
+              <name>aruco/marker_2_49</name>
+            </script>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <inertia>
+            <ixx>1</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>1</iyy>
+            <iyz>0</iyz>
+            <izz>1</izz>
+          </inertia>
+          <mass>1</mass>
+        </inertial>
+        <enable_wind>0</enable_wind>
+      </link>
+      <script>
+        <loop>1</loop>
+        <delay_start>0</delay_start>
+        <auto_start>1</auto_start>
+        <trajectory id='0' type='square'>
+          <waypoint>
+            <time>0</time>
+            <pose>1 1 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>5</time>
+            <pose>1 2 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>10</time>
+            <pose>1 3 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>15</time>
+            <pose>1 4 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>20</time>
+            <pose>1 5 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>25</time>
+            <pose>2 5 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>30</time>
+            <pose>3 5 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>35</time>
+            <pose>4 5 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>40</time>
+            <pose>5 5 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>45</time>
+            <pose>5 4 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>50</time>
+            <pose>5 3 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>55</time>
+            <pose>5 2 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>60</time>
+            <pose>5 1 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>65</time>
+            <pose>4 1 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>70</time>
+            <pose>3 1 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>75</time>
+            <pose>2 1 0.01 0 -0 0</pose>
+          </waypoint>
+          <waypoint>
+            <time>80</time>
+            <pose>1 1 0.01 0 -0 0</pose>
+          </waypoint>
+        </trajectory>
+      </script>
+      <skin>
+        <filename>__default__</filename>
+      </skin>
+    </actor>
+    <scene>
+      <ambient>0.8 0.8 0.8 1</ambient>
+      <background>0.8 0.9 1 1</background>
+      <shadows>0</shadows>
+      <grid>0</grid>
+      <origin_visual>0</origin_visual>
+    </scene>
+    <physics name='default_physics' default='0' type='ode'>
+      <ode>
+        <solver>
+          <type>quick</type>
+          <iters>10</iters>
+          <sor>1.3</sor>
+          <use_dynamic_moi_rescaling>0</use_dynamic_moi_rescaling>
+        </solver>
+        <constraints>
+          <cfm>0</cfm>
+          <erp>0.2</erp>
+          <contact_max_correcting_vel>100</contact_max_correcting_vel>
+          <contact_surface_layer>0.001</contact_surface_layer>
+        </constraints>
+      </ode>
+      <max_step_size>0.004</max_step_size>
+      <real_time_factor>1</real_time_factor>
+      <real_time_update_rate>250</real_time_update_rate>
+    </physics>
+    <gravity>0 0 -9.8066</gravity>
+    <magnetic_field>6e-06 2.3e-05 -4.2e-05</magnetic_field>
+    <atmosphere type='adiabatic'/>
+    <wind/>
+    <spherical_coordinates>
+      <surface_model>EARTH_WGS84</surface_model>
+      <latitude_deg>0</latitude_deg>
+      <longitude_deg>0</longitude_deg>
+      <elevation>0</elevation>
+      <heading_deg>0</heading_deg>
+    </spherical_coordinates>
+    <model name='clover'>
+      <link name='base_link'>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>1.5</mass>
+          <inertia>
+            <ixx>0.0172345</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.0172345</iyy>
+            <iyz>0</iyz>
+            <izz>0.030625</izz>
+          </inertia>
+        </inertial>
+        <collision name='base_link_inertia_collision'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.35 0.35 0.124</size>
+            </box>
+          </geometry>
+          <surface>
+            <contact>
+              <ode>
+                <kp>10000</kp>
+                <kd>10</kd>
+                <max_vel>10</max_vel>
+                <min_depth>0.001</min_depth>
+              </ode>
+            </contact>
+            <friction>
+              <ode/>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='base_link_fixed_joint_lump__body_visual'>
+          <pose>0 0 0.025 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>/home/drone/catkin_ws/src/clover/clover_description/meshes/clover4/clover_body_solid.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='/imu_joint' type='fixed'>
+        <pose relative_to='base_link'>0 0 0 0 -0 0</pose>
+        <parent>base_link</parent>
+        <child>/imu_link</child>
+        <axis>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+          <xyz>0 0 1</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+        </axis>
+        <physics>
+          <ode>
+            <limit>
+              <cfm>0</cfm>
+              <erp>0.2</erp>
+            </limit>
+          </ode>
+        </physics>
+      </joint>
+      <link name='/imu_link'>
+        <pose relative_to='/imu_joint'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.015</mass>
+          <inertia>
+            <ixx>1e-05</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>1e-05</iyy>
+            <iyz>0</iyz>
+            <izz>1e-05</izz>
+          </inertia>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='base_guard_joint' type='fixed'>
+        <pose relative_to='base_link'>0 0 0 0 -0 0</pose>
+        <parent>base_link</parent>
+        <child>base_guard_link</child>
+        <axis>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+          <xyz>0 0 1</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+        </axis>
+        <physics>
+          <ode>
+            <limit>
+              <cfm>0</cfm>
+              <erp>0.2</erp>
+            </limit>
+          </ode>
+        </physics>
+      </joint>
+      <link name='base_guard_link'>
+        <pose relative_to='base_guard_joint'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.015</mass>
+          <inertia>
+            <ixx>1.25e-07</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>1.25e-07</iyy>
+            <iyz>0</iyz>
+            <izz>1.25e-07</izz>
+          </inertia>
+        </inertial>
+        <collision name='base_guard_link_collision'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.01 0.01 0.01</size>
+            </box>
+          </geometry>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <friction>
+              <ode/>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='base_guard_link_visual'>
+          <pose>0 0 0.025 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>/home/drone/catkin_ws/src/clover/clover_description/meshes/clover4/clover_guards_transparent.dae</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Polycarbonate</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='led_joint' type='fixed'>
+        <pose relative_to='base_link'>0 0 -0.002 0 -0 0</pose>
+        <parent>base_link</parent>
+        <child>led_link</child>
+        <axis>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+          <xyz>0 0 1</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+        </axis>
+        <physics>
+          <ode>
+            <limit>
+              <cfm>0</cfm>
+              <erp>0.2</erp>
+            </limit>
+          </ode>
+        </physics>
+      </joint>
+      <link name='led_link'>
+        <pose relative_to='led_joint'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.0001</mass>
+          <inertia>
+            <ixx>0.001</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.001</iyy>
+            <iyz>0</iyz>
+            <izz>0.001</izz>
+          </inertia>
+        </inertial>
+        <visual name='led_link_visual'>
+          <pose>0.08 0 0 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_1'>
+          <pose>0.079531 0.00865 0 0 -0 0.108331</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_2'>
+          <pose>0.07813 0.017198 0 0 -0 0.216662</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_3'>
+          <pose>0.075812 0.025544 0 0 -0 0.324992</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_4'>
+          <pose>0.072606 0.033591 0 0 -0 0.433323</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_5'>
+          <pose>0.068549 0.041244 0 0 -0 0.541654</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_6'>
+          <pose>0.063687 0.048414 0 0 -0 0.649985</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_7'>
+          <pose>0.05808 0.055016 0 0 -0 0.758315</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_8'>
+          <pose>0.051791 0.060973 0 0 -0 0.866646</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_9'>
+          <pose>0.044895 0.066215 0 0 -0 0.974977</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_10'>
+          <pose>0.037473 0.070681 0 0 -0 1.08331</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_11'>
+          <pose>0.029611 0.074318 0 0 -0 1.19164</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_12'>
+          <pose>0.021402 0.077084 0 0 -0 1.29997</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_13'>
+          <pose>0.012943 0.078946 0 0 -0 1.4083</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_14'>
+          <pose>0.004331 0.079883 0 0 -0 1.51663</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_15'>
+          <pose>-0.004331 0.079883 0 0 -0 1.62496</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_16'>
+          <pose>-0.012943 0.078946 0 0 -0 1.73329</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_17'>
+          <pose>-0.021402 0.077084 0 0 -0 1.84162</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_18'>
+          <pose>-0.029611 0.074318 0 0 -0 1.94995</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_19'>
+          <pose>-0.037473 0.070681 0 0 -0 2.05829</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_20'>
+          <pose>-0.044895 0.066215 0 0 -0 2.16662</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_21'>
+          <pose>-0.051791 0.060973 0 0 -0 2.27495</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_22'>
+          <pose>-0.05808 0.055016 0 0 -0 2.38328</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_23'>
+          <pose>-0.063687 0.048414 0 0 -0 2.49161</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_24'>
+          <pose>-0.068549 0.041244 0 0 -0 2.59994</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_25'>
+          <pose>-0.072606 0.033591 0 0 -0 2.70827</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_26'>
+          <pose>-0.075812 0.025544 0 0 -0 2.8166</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_27'>
+          <pose>-0.07813 0.017198 0 0 -0 2.92493</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_28'>
+          <pose>-0.079531 0.00865 0 0 -0 3.03326</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_29'>
+          <pose>-0.08 0 0 0 -0 3.14159</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_30'>
+          <pose>-0.079531 -0.00865 0 0 0 -3.03326</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_31'>
+          <pose>-0.07813 -0.017198 0 0 0 -2.92493</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_32'>
+          <pose>-0.075812 -0.025544 0 0 0 -2.8166</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_33'>
+          <pose>-0.072606 -0.033591 0 0 0 -2.70827</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_34'>
+          <pose>-0.068549 -0.041244 0 0 0 -2.59994</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_35'>
+          <pose>-0.063687 -0.048414 0 0 0 -2.49161</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_36'>
+          <pose>-0.05808 -0.055016 0 0 0 -2.38328</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_37'>
+          <pose>-0.051791 -0.060973 0 0 0 -2.27495</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_38'>
+          <pose>-0.044895 -0.066215 0 0 0 -2.16662</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_39'>
+          <pose>-0.037473 -0.070681 0 0 0 -2.05829</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_40'>
+          <pose>-0.029611 -0.074318 0 0 0 -1.94995</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_41'>
+          <pose>-0.021402 -0.077084 0 0 0 -1.84162</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_42'>
+          <pose>-0.012943 -0.078946 0 0 0 -1.73329</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_43'>
+          <pose>-0.004331 -0.079883 0 0 0 -1.62496</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_44'>
+          <pose>0.004331 -0.079883 0 0 0 -1.51663</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_45'>
+          <pose>0.012943 -0.078946 0 0 0 -1.4083</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_46'>
+          <pose>0.021402 -0.077084 0 0 0 -1.29997</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_47'>
+          <pose>0.029611 -0.074318 0 0 0 -1.19164</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_48'>
+          <pose>0.037473 -0.070681 0 0 0 -1.08331</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_49'>
+          <pose>0.044895 -0.066215 0 0 0 -0.974977</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_50'>
+          <pose>0.051791 -0.060973 0 0 0 -0.866646</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_51'>
+          <pose>0.05808 -0.055016 0 0 0 -0.758315</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_52'>
+          <pose>0.063687 -0.048414 0 0 0 -0.649985</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_53'>
+          <pose>0.068549 -0.041244 0 0 0 -0.541654</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_54'>
+          <pose>0.072606 -0.033591 0 0 0 -0.433323</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_55'>
+          <pose>0.075812 -0.025544 0 0 0 -0.324992</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_56'>
+          <pose>0.07813 -0.017198 0 0 0 -0.216662</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <visual name='led_link_visual_57'>
+          <pose>0.079531 -0.00865 0 0 0 -0.108331</pose>
+          <geometry>
+            <box>
+              <size>0.006 0.006 0.006</size>
+            </box>
+          </geometry>
+          <plugin name='led_controller' filename='libsim_leds.so'>
+            <robotNamespace/>
+            <ledCount>58</ledCount>
+          </plugin>
+          <cast_shadows>0</cast_shadows>
+          <material>
+            <ambient>0 0 0 1</ambient>
+            <diffuse>0 0 0 1</diffuse>
+            <specular>0 0 0 1</specular>
+            <emissive>0 0 0 1</emissive>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='lidar_vl53l1x_joint' type='fixed'>
+        <pose relative_to='base_link'>0 0 -0.04 3.14159 1.57079 3.14159</pose>
+        <parent>base_link</parent>
+        <child>lidar_vl53l1x_link</child>
+        <axis>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+          <xyz>0 0 1</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+        </axis>
+        <physics>
+          <ode>
+            <limit>
+              <cfm>0</cfm>
+              <erp>0.2</erp>
+            </limit>
+          </ode>
+        </physics>
+      </joint>
+      <link name='lidar_vl53l1x_link'>
+        <pose relative_to='lidar_vl53l1x_joint'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.015</mass>
+          <inertia>
+            <ixx>4.15e-06</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>2.407e-06</iyy>
+            <iyz>0</iyz>
+            <izz>2.407e-06</izz>
+          </inertia>
+        </inertial>
+        <collision name='lidar_vl53l1x_link_collision'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.001 0.001 0.005</size>
+            </box>
+          </geometry>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <friction>
+              <ode/>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='lidar_vl53l1x_link_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.001 0.005 0.005</size>
+            </box>
+          </geometry>
+        </visual>
+        <sensor name='lidar_vl53l1x' type='ray'>
+          <pose>0 0 0 0 -0 0</pose>
+          <ray>
+            <scan>
+              <horizontal>
+                <samples>1</samples>
+                <resolution>1</resolution>
+                <min_angle>-0</min_angle>
+                <max_angle>0</max_angle>
+              </horizontal>
+              <vertical>
+                <samples>1</samples>
+                <min_angle>0</min_angle>
+                <max_angle>0</max_angle>
+              </vertical>
+            </scan>
+            <range>
+              <min>0.03</min>
+              <max>4</max>
+              <resolution>0.01</resolution>
+            </range>
+          </ray>
+          <plugin name='laser' filename='libgazebo_ros_range.so'>
+            <robotNamespace/>
+            <topicName>/rangefinder/range</topicName>
+            <frameName>rangefinder</frameName>
+            <radiation>infrared</radiation>
+            <fov>0.471239</fov>
+            <gaussianNoise>0.001</gaussianNoise>
+            <updateRate>10</updateRate>
+            <min_distance>0.01</min_distance>
+            <max_distance>4.0</max_distance>
+          </plugin>
+          <always_on>1</always_on>
+          <update_rate>10</update_rate>
+          <visualize>1</visualize>
+        </sensor>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='main_camera_joint' type='fixed'>
+        <pose relative_to='base_link'>0.055 0 -0.03 3.14159 1.57079 3.14159</pose>
+        <parent>base_link</parent>
+        <child>main_camera_link</child>
+        <axis>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+          <xyz>0 0 1</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+        </axis>
+        <physics>
+          <ode>
+            <limit>
+              <cfm>0</cfm>
+              <erp>0.2</erp>
+            </limit>
+          </ode>
+        </physics>
+      </joint>
+      <link name='main_camera_link'>
+        <pose relative_to='main_camera_joint'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.015</mass>
+          <inertia>
+            <ixx>4.15e-06</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>2.407e-06</iyy>
+            <iyz>0</iyz>
+            <izz>2.407e-06</izz>
+          </inertia>
+        </inertial>
+        <collision name='main_camera_link_collision'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.005 0.005 0.005</size>
+            </box>
+          </geometry>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <friction>
+              <ode/>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='main_camera_link_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.005 0.005 0.005</size>
+            </box>
+          </geometry>
+        </visual>
+        <sensor name='main_camera' type='camera'>
+          <camera>
+            <horizontal_fov>2.0944</horizontal_fov>
+            <image>
+              <format>B8G8R8</format>
+              <width>320</width>
+              <height>240</height>
+            </image>
+            <clip>
+              <near>0.02</near>
+              <far>1000</far>
+            </clip>
+            <distortion>
+              <k1>0</k1>
+              <k2>0</k2>
+              <k3>0</k3>
+              <p1>0</p1>
+              <p2>0</p2>
+              <center>0.5 0.5</center>
+            </distortion>
+          </camera>
+          <always_on>1</always_on>
+          <update_rate>40</update_rate>
+          <visualize>1</visualize>
+          <plugin name='camera_plugin' filename='libgazebo_ros_camera.so'>
+            <alwaysOn>1</alwaysOn>
+            <imageTopicName>image_raw</imageTopicName>
+            <cameraTopicName>camera_info</cameraTopicName>
+            <updateRate>40</updateRate>
+            <cameraName>main_camera</cameraName>
+            <frameName>/main_camera_optical</frameName>
+            <CxPrime>160.5</CxPrime>
+            <Cx>160.5</Cx>
+            <Cy>120.5</Cy>
+            <distortionK1>0</distortionK1>
+            <distortionK2>0</distortionK2>
+            <distortionK3>0</distortionK3>
+            <distortionT1>0</distortionT1>
+            <distortionT2>0</distortionT2>
+            <minUpdateRate>38.0</minUpdateRate>
+            <windowSize>40</windowSize>
+            <maxStDev>0.075</maxStDev>
+            <robotNamespace>/</robotNamespace>
+          </plugin>
+        </sensor>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='rotor_0_joint' type='revolute'>
+        <pose relative_to='base_link'>0.083 -0.083 0.026 0 -0 0</pose>
+        <parent>base_link</parent>
+        <child>rotor_0</child>
+        <axis>
+          <xyz>0 0 1</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+        </axis>
+      </joint>
+      <link name='rotor_0'>
+        <pose relative_to='rotor_0_joint'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.01</mass>
+          <inertia>
+            <ixx>1.95e-06</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.000120075</iyy>
+            <iyz>0</iyz>
+            <izz>0.000121875</izz>
+          </inertia>
+        </inertial>
+        <collision name='rotor_0_collision'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <length>0.005</length>
+              <radius>0.06</radius>
+            </cylinder>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='rotor_0_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>/home/drone/catkin_ws/src/clover/clover_description/meshes/clover4/prop_ccw.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='rotor_1_joint' type='revolute'>
+        <pose relative_to='base_link'>-0.083 0.083 0.026 0 -0 0</pose>
+        <parent>base_link</parent>
+        <child>rotor_1</child>
+        <axis>
+          <xyz>0 0 1</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+        </axis>
+      </joint>
+      <link name='rotor_1'>
+        <pose relative_to='rotor_1_joint'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.01</mass>
+          <inertia>
+            <ixx>1.95e-06</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.000120075</iyy>
+            <iyz>0</iyz>
+            <izz>0.000121875</izz>
+          </inertia>
+        </inertial>
+        <collision name='rotor_1_collision'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <length>0.005</length>
+              <radius>0.06</radius>
+            </cylinder>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='rotor_1_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>/home/drone/catkin_ws/src/clover/clover_description/meshes/clover4/prop_ccw.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='rotor_2_joint' type='revolute'>
+        <pose relative_to='base_link'>0.083 0.083 0.026 0 -0 0</pose>
+        <parent>base_link</parent>
+        <child>rotor_2</child>
+        <axis>
+          <xyz>0 0 1</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+        </axis>
+      </joint>
+      <link name='rotor_2'>
+        <pose relative_to='rotor_2_joint'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.01</mass>
+          <inertia>
+            <ixx>1.95e-06</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.000120075</iyy>
+            <iyz>0</iyz>
+            <izz>0.000121875</izz>
+          </inertia>
+        </inertial>
+        <collision name='rotor_2_collision'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <length>0.005</length>
+              <radius>0.06</radius>
+            </cylinder>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='rotor_2_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>/home/drone/catkin_ws/src/clover/clover_description/meshes/clover4/prop_cw.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='rotor_3_joint' type='revolute'>
+        <pose relative_to='base_link'>-0.083 -0.083 0.026 0 -0 0</pose>
+        <parent>base_link</parent>
+        <child>rotor_3</child>
+        <axis>
+          <xyz>0 0 1</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+        </axis>
+      </joint>
+      <link name='rotor_3'>
+        <pose relative_to='rotor_3_joint'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.01</mass>
+          <inertia>
+            <ixx>1.95e-06</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.000120075</iyy>
+            <iyz>0</iyz>
+            <izz>0.000121875</izz>
+          </inertia>
+        </inertial>
+        <collision name='rotor_3_collision'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <length>0.005</length>
+              <radius>0.06</radius>
+            </cylinder>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='rotor_3_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>/home/drone/catkin_ws/src/clover/clover_description/meshes/clover4/prop_cw.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <plugin name='rosbag' filename='libgazebo_multirotor_base_plugin.so'>
+        <robotNamespace/>
+        <linkName>base_link</linkName>
+        <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
+      </plugin>
+      <plugin name='front_right_motor_model' filename='libgazebo_motor_model.so'>
+        <robotNamespace/>
+        <jointName>rotor_0_joint</jointName>
+        <linkName>rotor_0</linkName>
+        <turningDirection>ccw</turningDirection>
+        <timeConstantUp>0.0125</timeConstantUp>
+        <timeConstantDown>0.025</timeConstantDown>
+        <maxRotVelocity>1100</maxRotVelocity>
+        <motorConstant>8.54858e-06</motorConstant>
+        <momentConstant>0.06</momentConstant>
+        <commandSubTopic>/gazebo/command/motor_speed</commandSubTopic>
+        <motorNumber>0</motorNumber>
+        <rotorDragCoefficient>0.000175</rotorDragCoefficient>
+        <rollingMomentCoefficient>1e-06</rollingMomentCoefficient>
+        <motorSpeedPubTopic>/motor_speed/0</motorSpeedPubTopic>
+        <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
+      </plugin>
+      <plugin name='back_left_motor_model' filename='libgazebo_motor_model.so'>
+        <robotNamespace/>
+        <jointName>rotor_1_joint</jointName>
+        <linkName>rotor_1</linkName>
+        <turningDirection>ccw</turningDirection>
+        <timeConstantUp>0.0125</timeConstantUp>
+        <timeConstantDown>0.025</timeConstantDown>
+        <maxRotVelocity>1100</maxRotVelocity>
+        <motorConstant>8.54858e-06</motorConstant>
+        <momentConstant>0.06</momentConstant>
+        <commandSubTopic>/gazebo/command/motor_speed</commandSubTopic>
+        <motorNumber>1</motorNumber>
+        <rotorDragCoefficient>0.000175</rotorDragCoefficient>
+        <rollingMomentCoefficient>1e-06</rollingMomentCoefficient>
+        <motorSpeedPubTopic>/motor_speed/1</motorSpeedPubTopic>
+        <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
+      </plugin>
+      <plugin name='front_left_motor_model' filename='libgazebo_motor_model.so'>
+        <robotNamespace/>
+        <jointName>rotor_2_joint</jointName>
+        <linkName>rotor_2</linkName>
+        <turningDirection>cw</turningDirection>
+        <timeConstantUp>0.0125</timeConstantUp>
+        <timeConstantDown>0.025</timeConstantDown>
+        <maxRotVelocity>1100</maxRotVelocity>
+        <motorConstant>8.54858e-06</motorConstant>
+        <momentConstant>0.06</momentConstant>
+        <commandSubTopic>/gazebo/command/motor_speed</commandSubTopic>
+        <motorNumber>2</motorNumber>
+        <rotorDragCoefficient>0.000175</rotorDragCoefficient>
+        <rollingMomentCoefficient>1e-06</rollingMomentCoefficient>
+        <motorSpeedPubTopic>/motor_speed/2</motorSpeedPubTopic>
+        <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
+      </plugin>
+      <plugin name='back_right_motor_model' filename='libgazebo_motor_model.so'>
+        <robotNamespace/>
+        <jointName>rotor_3_joint</jointName>
+        <linkName>rotor_3</linkName>
+        <turningDirection>cw</turningDirection>
+        <timeConstantUp>0.0125</timeConstantUp>
+        <timeConstantDown>0.025</timeConstantDown>
+        <maxRotVelocity>1100</maxRotVelocity>
+        <motorConstant>8.54858e-06</motorConstant>
+        <momentConstant>0.06</momentConstant>
+        <commandSubTopic>/gazebo/command/motor_speed</commandSubTopic>
+        <motorNumber>3</motorNumber>
+        <rotorDragCoefficient>0.000175</rotorDragCoefficient>
+        <rollingMomentCoefficient>1e-06</rollingMomentCoefficient>
+        <motorSpeedPubTopic>/motor_speed/3</motorSpeedPubTopic>
+        <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
+      </plugin>
+      <static>0</static>
+      <plugin name='groundtruth_plugin' filename='libgazebo_groundtruth_plugin.so'>
+        <robotNamespace/>
+      </plugin>
+      <plugin name='magnetometer_plugin' filename='libgazebo_magnetometer_plugin.so'>
+        <robotNamespace/>
+        <pubRate>100</pubRate>
+        <noiseDensity>0.0004</noiseDensity>
+        <randomWalk>6.4e-06</randomWalk>
+        <biasCorrelationTime>600</biasCorrelationTime>
+        <magTopic>/mag</magTopic>
+      </plugin>
+      <plugin name='barometer_plugin' filename='libgazebo_barometer_plugin.so'>
+        <robotNamespace/>
+        <pubRate>50</pubRate>
+        <baroTopic>/baro</baroTopic>
+        <baroDriftPaPerSec>0</baroDriftPaPerSec>
+      </plugin>
+      <plugin name='mavlink_interface' filename='libgazebo_mavlink_interface.so'>
+        <robotNamespace/>
+        <imuSubTopic>/imu</imuSubTopic>
+        <magSubTopic>/mag</magSubTopic>
+        <baroSubTopic>/baro</baroSubTopic>
+        <mavlink_addr>INADDR_ANY</mavlink_addr>
+        <mavlink_tcp_port>4560</mavlink_tcp_port>
+        <mavlink_udp_port>14560</mavlink_udp_port>
+        <serialEnabled>0</serialEnabled>
+        <serialDevice>/dev/ttyACM0</serialDevice>
+        <baudRate>921600</baudRate>
+        <qgc_addr>INADDR_ANY</qgc_addr>
+        <qgc_udp_port>14550</qgc_udp_port>
+        <sdk_addr>INADDR_ANY</sdk_addr>
+        <sdk_udp_port>14540</sdk_udp_port>
+        <hil_mode>0</hil_mode>
+        <hil_state_level>0</hil_state_level>
+        <send_vision_estimation>0</send_vision_estimation>
+        <send_odometry>1</send_odometry>
+        <enable_lockstep>1</enable_lockstep>
+        <use_tcp>1</use_tcp>
+        <motorSpeedCommandPubTopic>/gazebo/command/motor_speed</motorSpeedCommandPubTopic>
+        <control_channels>
+          <channel name='rotor1'>
+            <input_index>0</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>1000</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>100</zero_position_armed>
+            <joint_control_type>velocity</joint_control_type>
+          </channel>
+          <channel name='rotor2'>
+            <input_index>1</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>1000</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>100</zero_position_armed>
+            <joint_control_type>velocity</joint_control_type>
+          </channel>
+          <channel name='rotor3'>
+            <input_index>2</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>1000</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>100</zero_position_armed>
+            <joint_control_type>velocity</joint_control_type>
+          </channel>
+          <channel name='rotor4'>
+            <input_index>3</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>1000</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>100</zero_position_armed>
+            <joint_control_type>velocity</joint_control_type>
+          </channel>
+          <channel name='rotor5'>
+            <input_index>4</input_index>
+            <input_offset>1</input_offset>
+            <input_scaling>324.6</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>0</zero_position_armed>
+            <joint_control_type>velocity</joint_control_type>
+            <joint_control_pid>
+              <p>0.1</p>
+              <i>0</i>
+              <d>0</d>
+              <iMax>0.0</iMax>
+              <iMin>0.0</iMin>
+              <cmdMax>2</cmdMax>
+              <cmdMin>-2</cmdMin>
+            </joint_control_pid>
+            <joint_name>zephyr_delta_wing::propeller_joint</joint_name>
+          </channel>
+          <channel name='rotor6'>
+            <input_index>5</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>0.524</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>0</zero_position_armed>
+            <joint_control_type>position</joint_control_type>
+            <joint_name>zephyr_delta_wing::flap_left_joint</joint_name>
+            <joint_control_pid>
+              <p>10.0</p>
+              <i>0</i>
+              <d>0</d>
+              <iMax>0</iMax>
+              <iMin>0</iMin>
+              <cmdMax>20</cmdMax>
+              <cmdMin>-20</cmdMin>
+            </joint_control_pid>
+          </channel>
+          <channel name='rotor7'>
+            <input_index>6</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>0.524</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>0</zero_position_armed>
+            <joint_control_type>position</joint_control_type>
+            <joint_name>zephyr_delta_wing::flap_right_joint</joint_name>
+            <joint_control_pid>
+              <p>10.0</p>
+              <i>0</i>
+              <d>0</d>
+              <iMax>0</iMax>
+              <iMin>0</iMin>
+              <cmdMax>20</cmdMax>
+              <cmdMin>-20</cmdMin>
+            </joint_control_pid>
+          </channel>
+          <channel name='rotor8'>
+            <input_index>7</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>0.524</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>0</zero_position_armed>
+            <joint_control_type>position</joint_control_type>
+          </channel>
+        </control_channels>
+      </plugin>
+      <plugin name='rotors_gazebo_imu_plugin' filename='libgazebo_imu_plugin.so'>
+        <robotNamespace/>
+        <linkName>/imu_link</linkName>
+        <imuTopic>/imu</imuTopic>
+        <gyroscopeNoiseDensity>0.00018665</gyroscopeNoiseDensity>
+        <gyroscopeRandomWalk>3.8785e-05</gyroscopeRandomWalk>
+        <gyroscopeBiasCorrelationTime>1000.0</gyroscopeBiasCorrelationTime>
+        <gyroscopeTurnOnBiasSigma>0.0087</gyroscopeTurnOnBiasSigma>
+        <accelerometerNoiseDensity>0.00186</accelerometerNoiseDensity>
+        <accelerometerRandomWalk>0.006</accelerometerRandomWalk>
+        <accelerometerBiasCorrelationTime>300.0</accelerometerBiasCorrelationTime>
+        <accelerometerTurnOnBiasSigma>0.196</accelerometerTurnOnBiasSigma>
+      </plugin>
+      <plugin name='led_ros_controller' filename='libsim_leds_controller.so'>
+        <robotNamespace/>
+        <ledCount>58</ledCount>
+      </plugin>
+      <frame name='base_joint' attached_to='base_link'>
+        <pose>0 0 0 0 -0 0</pose>
+      </frame>
+      <frame name='base_link_inertia' attached_to='base_joint'/>
+      <pose>0 0 0.3 0 -0 0</pose>
+    </model>
+    <model name='asphalt_plane'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='collision'>
+          <geometry>
+            <box>
+              <size>200 200 0.1</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <cast_shadows>0</cast_shadows>
+          <geometry>
+            <box>
+              <size>200 200 0.1</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://asphalt_plane/materials/scripts</uri>
+              <uri>model://asphalt_plane/materials/textures</uri>
+              <name>vrc/asphalt</name>
+            </script>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>1.33109 2.4867 0 0 -0 0</pose>
+    </model>
+    <state world_name='default'>
+      <sim_time>487 608000000</sim_time>
+      <real_time>1507 436907530</real_time>
+      <wall_time>1727290196 424653987</wall_time>
+      <iterations>40680</iterations>
+      <model name='Gas Station'>
+        <pose>6.20761 -9.55108 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>6.20761 -9.55108 0 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='House 1'>
+        <pose>-19.3929 31.3677 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>-19.3929 31.3677 0 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='Stop Sign'>
+        <pose>1.8882 0.83868 0 0 0 -1.7</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>1.8882 0.83868 0 0 0 -1.7</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='animated_box'>
+        <pose>1 2.5176 0.01 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>1 2.5176 0.01 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='aruco_2_49'>
+        <pose>0 0 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='aruco_2_49_link'>
+          <pose>0 0 0 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='asphalt_plane'>
+        <pose>1.33109 2.4867 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>1.33109 2.4867 0 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='clover'>
+        <pose>-2.03405 2.03563 0.11061 0 6e-06 0.00261</pose>
+        <scale>1 1 1</scale>
+        <link name='/imu_link'>
+          <pose>-2.03405 2.03563 0.11061 0 8e-06 0.00261</pose>
+          <velocity>-0 -0 0.00026 -2e-06 -4e-06 -0</velocity>
+          <acceleration>-0 0 -0 0 -0 0</acceleration>
+          <wrench>-0 0 -0 0 -0 0</wrench>
+        </link>
+        <link name='base_guard_link'>
+          <pose>-2.03405 2.03563 0.11061 0 8e-06 0.00261</pose>
+          <velocity>-0 -0 0.00026 -2e-06 -4e-06 -0</velocity>
+          <acceleration>-0 0 0 0 -0 0</acceleration>
+          <wrench>-0 0 0 0 -0 0</wrench>
+        </link>
+        <link name='base_link'>
+          <pose>-2.03405 2.03563 0.11061 0 6e-06 0.00261</pose>
+          <velocity>-0 -0 0.00026 0 -5e-06 0</velocity>
+          <acceleration>-0 0 0 0 -0 0</acceleration>
+          <wrench>-0 0 0 0 -0 0</wrench>
+        </link>
+        <link name='led_link'>
+          <pose>-2.03405 2.03563 0.10861 0 8e-06 0.00261</pose>
+          <velocity>-0 -0 0.00026 -2e-06 -4e-06 -0</velocity>
+          <acceleration>-0 0 -0 0 -0 0</acceleration>
+          <wrench>-0 0 -0 0 -0 0</wrench>
+        </link>
+        <link name='lidar_vl53l1x_link'>
+          <pose>-2.03405 2.03563 0.07061 0.060188 1.57079 0.062797</pose>
+          <velocity>-1e-06 -0 0.00026 -1e-06 -1.1e-05 -0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name='main_camera_link'>
+          <pose>-1.97896 2.03577 0.080336 -0.000127 1.56853 0.002482</pose>
+          <velocity>2.2e-05 0 0.000171 0 -0.000717 0</velocity>
+          <acceleration>0 0 -0 -0 -0 -0</acceleration>
+          <wrench>0 0 -0 0 -0 0</wrench>
+        </link>
+        <link name='rotor_0'>
+          <pose>-1.95084 1.95284 0.13661 0 6e-06 -0.004155</pose>
+          <velocity>-1e-06 -0 0.000261 -2e-06 -5e-06 0</velocity>
+          <acceleration>-4.2e-05 5e-06 -1e-06 -0.000612 -0.000165 0</acceleration>
+          <wrench>-0 0 -0 0 -0 0</wrench>
+        </link>
+        <link name='rotor_1'>
+          <pose>-2.11727 2.11841 0.136611 0 6e-06 -0.004155</pose>
+          <velocity>-1e-06 0 0.00026 -2e-06 -5e-06 0</velocity>
+          <acceleration>-4e-05 9e-06 -0.000109 -0.000545 -0.000179 0</acceleration>
+          <wrench>-0 0 -1e-06 0 -0 0</wrench>
+        </link>
+        <link name='rotor_2'>
+          <pose>-1.95127 2.11884 0.13661 0 7e-06 -0.004155</pose>
+          <velocity>-1e-06 -0 0.00026 -2e-06 -6e-06 0</velocity>
+          <acceleration>-4e-05 6e-06 -8.1e-05 -0.000516 -0.000223 0</acceleration>
+          <wrench>-0 0 -1e-06 0 -0 0</wrench>
+        </link>
+        <link name='rotor_3'>
+          <pose>-2.11683 1.95241 0.136611 0 6e-06 -0.004155</pose>
+          <velocity>-1e-06 0 0.00026 -2e-06 -6e-06 0</velocity>
+          <acceleration>-4.4e-05 9e-06 -3.8e-05 -0.000453 -0.00022 0</acceleration>
+          <wrench>-0 0 -0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='grocery_store'>
+        <pose>6.60323 33.0036 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>6.60323 33.0036 0 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='hatchback'>
+        <pose>41.8416 4.20081 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>41.8416 4.20081 0 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='hatchback_red'>
+        <pose>50.2349 -22.472 0 0 -0 1.55</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>50.2349 -22.472 0 0 -0 1.55</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='parking_garage'>
+        <pose>65.8378 41.6902 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>65.8378 41.6902 0 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='parquet_plane'>
+        <pose>0 0 -0.01 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose>0 0 -0.01 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='r1_rover'>
+        <pose>0.702538 2.27524 0.095355 -8.3e-05 0.000181 -0.013531</pose>
+        <scale>1 1 1</scale>
+        <link name='base_link'>
+          <pose>0.702538 2.27524 0.095355 -8.3e-05 0.000181 -0.013531</pose>
+          <velocity>0.000992 2.9e-05 -0.010071 -0.021171 0.023986 -0.000232</velocity>
+          <acceleration>-0.001936 -0.004907 0.006336 1.79777 -0.464579 -0.227777</acceleration>
+          <wrench>-0.038722 -0.09814 0.126728 0 -0 0</wrench>
+        </link>
+        <link name='gps::link'>
+          <pose>0.702596 2.27528 0.215301 3.5e-05 8.6e-05 -0.013531</pose>
+          <velocity>0.002169 0.001201 -0.009501 -0.024342 0.027736 -6.6e-05</velocity>
+          <acceleration>0.005749 0.023005 0.010243 2.50465 -0.609169 -0.14165</acceleration>
+          <wrench>8.6e-05 0.000345 0.000154 0 -0 0</wrench>
+        </link>
+        <link name='lb_wheel_link'>
+          <pose>0.554752 2.4404 0.117502 0.000368 0.064976 -0.013494</pose>
+          <velocity>0.001536 -0.009714 -0.019557 0.148852 0.028551 0.010398</velocity>
+          <acceleration>-0.012715 -5.14797 0.330143 -2.98806 -0.993312 -1.61651</acceleration>
+          <wrench>-0.005264 -2.13126 0.136679 0 -0 0</wrench>
+        </link>
+        <link name='lf_wheel_link'>
+          <pose>0.854728 2.43634 0.117493 0.000335 0.06076 -0.013495</pose>
+          <velocity>0.001355 -0.01226 -0.023846 0.187955 0.027082 0.010821</velocity>
+          <acceleration>-0.076709 -6.50159 0.329222 2.03504 -1.2034 1.7964</acceleration>
+          <wrench>-0.031758 -2.69166 0.136298 0 -0 0</wrench>
+        </link>
+        <link name='rb_wheel_link'>
+          <pose>0.550338 2.11415 0.117562 -0.00053 0.078562 -0.013594</pose>
+          <velocity>0.001782 0.015248 -0.003841 -0.233355 0.012461 -0.010832</velocity>
+          <acceleration>0.118221 7.31451 -0.652806 -1.9935 0.140557 -2.67937</acceleration>
+          <wrench>0.048944 3.02821 -0.270262 0 -0 0</wrench>
+        </link>
+        <link name='rf_wheel_link'>
+          <pose>0.850312 2.11008 0.117495 -0.000605 0.072846 -0.013597</pose>
+          <velocity>0.001687 0.011322 -0.021175 -0.172555 0.033548 -0.00966</velocity>
+          <acceleration>0.052198 5.26825 -0.388871 1.15328 1.54069 1.02759</acceleration>
+          <wrench>0.02161 2.18106 -0.160993 0 -0 0</wrench>
+        </link>
+        <link name='rover/imu_link'>
+          <pose>0.702577 2.27526 0.295301 -8.3e-05 0.000196 -0.013531</pose>
+          <velocity>0.005557 0.004082 -0.009501 -0.019943 0.022804 -6.7e-05</velocity>
+          <acceleration>-0.087472 -0.351976 0.01031 1.71317 -0.425571 -0.141512</acceleration>
+          <wrench>-0.001312 -0.00528 0.000155 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stop_light_post'>
+        <pose>60.1384 0.803464 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='center_light::link'>
+          <pose>58.1384 0.843464 5.82 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name='link'>
+          <pose>60.1384 0.803464 0 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name='right_light::link'>
+          <pose>60.1384 0.753464 4 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stop_light_post_0'>
+        <pose>43.5413 0.831786 0 0 0 -1.75</pose>
+        <scale>1 1 1</scale>
+        <link name='center_light::link'>
+          <pose>43.9372 2.79263 5.82 0 0 -1.75</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name='link'>
+          <pose>43.5413 0.831786 0 0 0 -1.75</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name='right_light::link'>
+          <pose>43.4921 0.840698 4 0 0 -1.75</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <light name='sun'>
+        <pose>0 0 10 0 -0 0</pose>
+      </light>
+    </state>
+    <model name='r1_rover'>
+      <link name='base_link'>
+        <pose>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>20</mass>
+          <inertia>
+            <ixx>0.37083</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.37083</iyy>
+            <iyz>0</iyz>
+            <izz>0.53333</izz>
+          </inertia>
+        </inertial>
+        <collision name='odom_fixed_joint_lump__base_link_collision'>
+          <pose>0 0 0.15 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.4 0.4 0.25</size>
+            </box>
+          </geometry>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <friction>
+              <ode/>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='odom_fixed_joint_lump__base_link_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/chassis_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/Grey</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <visual name='odom_fixed_joint_lump__top_link_visual_1'>
+          <pose>0 0 0.114486 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/top_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/White</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <visual name='odom_fixed_joint_lump__battery_link_visual_2'>
+          <pose>-0.09302 -0.000128 0.114486 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/battery_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/FlatBlack</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <visual name='odom_fixed_joint_lump__housing_link_visual_3'>
+          <pose>0.03473 0 0.114486 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/housing_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/FlatBlack</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <visual name='odom_fixed_joint_lump__l_antenna_link_visual_4'>
+          <pose>-0.1565 0.0762 0.114486 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/antenna_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/FlatBlack</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <visual name='odom_fixed_joint_lump__r_antenna_link_visual_5'>
+          <pose>-0.1565 -0.0762 0.114486 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/antenna_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/FlatBlack</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <velocity_decay/>
+        <velocity_decay/>
+        <velocity_decay/>
+        <velocity_decay/>
+        <velocity_decay/>
+        <gravity>1</gravity>
+        <velocity_decay/>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <link name='lb_wheel_link'>
+        <pose>-0.15 0.16317 0.0215 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 1.5708 -0 0</pose>
+          <mass>0.414</mass>
+          <inertia>
+            <ixx>0.00068682</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.00068682</iyy>
+            <iyz>0</iyz>
+            <izz>0.00097299</izz>
+          </inertia>
+        </inertial>
+        <collision name='lb_wheel_link_collision'>
+          <pose>0 0 0 1.5708 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <radius>0.0686</radius>
+              <length>0.0762</length>
+            </cylinder>
+          </geometry>
+          <max_contacts>1</max_contacts>
+          <surface>
+            <friction>
+              <torsional>
+                <coefficient>0.25</coefficient>
+                <use_patch_radius>1</use_patch_radius>
+                <surface_radius>0.0686</surface_radius>
+                <ode/>
+              </torsional>
+              <ode>
+                <mu>1</mu>
+                <mu2>0.45</mu2>
+                <fdir1>1 0 0</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+            </friction>
+            <bounce>
+              <restitution_coefficient>0</restitution_coefficient>
+              <threshold>1e+06</threshold>
+            </bounce>
+            <contact>
+              <ode>
+                <min_depth>0.001</min_depth>
+                <max_vel>0</max_vel>
+                <kp>1e+06</kp>
+                <kd>100</kd>
+              </ode>
+            </contact>
+          </surface>
+        </collision>
+        <visual name='lb_wheel_link_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/wheel_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/FlatBlack</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <gravity>1</gravity>
+        <velocity_decay/>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='lb_wheel_joint' type='revolute'>
+        <child>lb_wheel_link</child>
+        <parent>base_link</parent>
+        <axis>
+          <xyz expressed_in='__model__'>0 1 0</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+        </axis>
+      </joint>
+      <link name='lf_wheel_link'>
+        <pose>0.15 0.16317 0.0215 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 1.5708 -0 0</pose>
+          <mass>0.414</mass>
+          <inertia>
+            <ixx>0.00068682</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.00068682</iyy>
+            <iyz>0</iyz>
+            <izz>0.00097299</izz>
+          </inertia>
+        </inertial>
+        <collision name='lf_wheel_link_collision'>
+          <pose>0 0 0 1.5708 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <radius>0.0686</radius>
+              <length>0.0762</length>
+            </cylinder>
+          </geometry>
+          <max_contacts>1</max_contacts>
+          <surface>
+            <friction>
+              <torsional>
+                <coefficient>0.25</coefficient>
+                <use_patch_radius>1</use_patch_radius>
+                <surface_radius>0.0686</surface_radius>
+                <ode/>
+              </torsional>
+              <ode>
+                <mu>1</mu>
+                <mu2>0.45</mu2>
+                <fdir1>1 0 0</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+            </friction>
+            <bounce>
+              <restitution_coefficient>0</restitution_coefficient>
+              <threshold>1e+06</threshold>
+            </bounce>
+            <contact>
+              <ode>
+                <min_depth>0.001</min_depth>
+                <max_vel>0</max_vel>
+                <kp>1e+06</kp>
+                <kd>100</kd>
+              </ode>
+            </contact>
+          </surface>
+        </collision>
+        <visual name='lf_wheel_link_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/wheel_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/FlatBlack</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <gravity>1</gravity>
+        <velocity_decay/>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='lf_wheel_joint' type='revolute'>
+        <child>lf_wheel_link</child>
+        <parent>base_link</parent>
+        <axis>
+          <xyz expressed_in='__model__'>0 1 0</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+        </axis>
+      </joint>
+      <link name='rb_wheel_link'>
+        <pose>-0.15 -0.16317 0.0215 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 1.5708 -0 0</pose>
+          <mass>0.414</mass>
+          <inertia>
+            <ixx>0.00068682</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.00068682</iyy>
+            <iyz>0</iyz>
+            <izz>0.00097299</izz>
+          </inertia>
+        </inertial>
+        <collision name='rb_wheel_link_collision'>
+          <pose>0 0 0 1.5708 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <radius>0.0686</radius>
+              <length>0.0762</length>
+            </cylinder>
+          </geometry>
+          <max_contacts>1</max_contacts>
+          <surface>
+            <friction>
+              <torsional>
+                <coefficient>0.25</coefficient>
+                <use_patch_radius>1</use_patch_radius>
+                <surface_radius>0.0686</surface_radius>
+                <ode/>
+              </torsional>
+              <ode>
+                <mu>1</mu>
+                <mu2>0.45</mu2>
+                <fdir1>1 0 0</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+            </friction>
+            <bounce>
+              <restitution_coefficient>0</restitution_coefficient>
+              <threshold>1e+06</threshold>
+            </bounce>
+            <contact>
+              <ode>
+                <min_depth>0.001</min_depth>
+                <kp>1e+08</kp>
+              </ode>
+            </contact>
+          </surface>
+        </collision>
+        <visual name='rb_wheel_link_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/wheel_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/FlatBlack</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <gravity>1</gravity>
+        <velocity_decay/>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='rb_wheel_joint' type='revolute'>
+        <child>rb_wheel_link</child>
+        <parent>base_link</parent>
+        <axis>
+          <xyz expressed_in='__model__'>0 1 0</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+        </axis>
+      </joint>
+      <link name='rf_wheel_link'>
+        <pose>0.15 -0.16317 0.0215 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 1.5708 -0 0</pose>
+          <mass>0.414</mass>
+          <inertia>
+            <ixx>0.00068682</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.00068682</iyy>
+            <iyz>0</iyz>
+            <izz>0.00097299</izz>
+          </inertia>
+        </inertial>
+        <collision name='rf_wheel_link_collision'>
+          <pose>0 0 0 1.5708 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <radius>0.0686</radius>
+              <length>0.0762</length>
+            </cylinder>
+          </geometry>
+          <max_contacts>1</max_contacts>
+          <surface>
+            <friction>
+              <torsional>
+                <coefficient>0.25</coefficient>
+                <use_patch_radius>1</use_patch_radius>
+                <surface_radius>0.0686</surface_radius>
+                <ode/>
+              </torsional>
+              <ode>
+                <mu>1</mu>
+                <mu2>0.45</mu2>
+                <fdir1>1 0 0</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+            </friction>
+            <bounce>
+              <restitution_coefficient>0</restitution_coefficient>
+              <threshold>1e+06</threshold>
+            </bounce>
+            <contact>
+              <ode>
+                <min_depth>0.001</min_depth>
+                <max_vel>0</max_vel>
+                <kp>1e+06</kp>
+                <kd>100</kd>
+              </ode>
+            </contact>
+          </surface>
+        </collision>
+        <visual name='rf_wheel_link_visual'>
+          <pose>0 0 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <scale>1 1 1</scale>
+              <uri>model://r1_rover/meshes/wheel_link.STL</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/FlatBlack</name>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+            </script>
+          </material>
+        </visual>
+        <gravity>1</gravity>
+        <velocity_decay/>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='rf_wheel_joint' type='revolute'>
+        <child>rf_wheel_link</child>
+        <parent>base_link</parent>
+        <axis>
+          <xyz expressed_in='__model__'>0 1 0</xyz>
+          <limit>
+            <lower>-1e+16</lower>
+            <upper>1e+16</upper>
+          </limit>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+        </axis>
+      </joint>
+      <static>0</static>
+      <link name='rover/imu_link'>
+        <pose>0 0 0.2 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.015</mass>
+          <inertia>
+            <ixx>1e-05</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>1e-05</iyy>
+            <iyz>0</iyz>
+            <izz>1e-05</izz>
+          </inertia>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='rover/imu_joint' type='revolute'>
+        <child>rover/imu_link</child>
+        <parent>base_link</parent>
+        <axis>
+          <xyz expressed_in='__model__'>1 0 0</xyz>
+          <limit>
+            <lower>0</lower>
+            <upper>0</upper>
+            <effort>0</effort>
+            <velocity>0</velocity>
+          </limit>
+          <dynamics>
+            <spring_reference>0</spring_reference>
+            <spring_stiffness>0</spring_stiffness>
+          </dynamics>
+        </axis>
+      </joint>
+      <frame name='gps::__model__' attached_to='gps::link'>
+        <pose relative_to='__model__'>0 0 0.12 0 -0 0</pose>
+      </frame>
+      <link name='gps::link'>
+        <pose relative_to='gps::__model__'>0 0 0 0 -0 0</pose>
+        <inertial>
+          <pose>0 0 0 0 -0 0</pose>
+          <mass>0.015</mass>
+          <inertia>
+            <ixx>1e-05</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>1e-05</iyy>
+            <iyz>0</iyz>
+            <izz>1e-05</izz>
+          </inertia>
+        </inertial>
+        <visual name='visual'>
+          <geometry>
+            <cylinder>
+              <radius>0.01</radius>
+              <length>0.002</length>
+            </cylinder>
+          </geometry>
+          <material>
+            <script>
+              <name>Gazebo/Black</name>
+              <uri>__default__</uri>
+            </script>
+          </material>
+        </visual>
+        <sensor name='gps' type='gps'>
+          <pose>0 0 0 0 -0 0</pose>
+          <update_rate>5</update_rate>
+          <always_on>1</always_on>
+          <visualize>0</visualize>
+          <plugin name='gps_plugin' filename='libgazebo_gps_plugin.so'>
+            <robotNamespace/>
+            <gpsNoise>1</gpsNoise>
+            <gpsXYRandomWalk>2.0</gpsXYRandomWalk>
+            <gpsZRandomWalk>4.0</gpsZRandomWalk>
+            <gpsXYNoiseDensity>2.0e-4</gpsXYNoiseDensity>
+            <gpsZNoiseDensity>4.0e-4</gpsZNoiseDensity>
+            <gpsVXYNoiseDensity>0.2</gpsVXYNoiseDensity>
+            <gpsVZNoiseDensity>0.4</gpsVZNoiseDensity>
+          </plugin>
+          <gps/>
+        </sensor>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <joint name='gps_joint' type='fixed'>
+        <child>gps::link</child>
+        <parent>base_link</parent>
+      </joint>
+      <plugin name='gazebo_imu_plugin' filename='libgazebo_imu_plugin.so'>
+        <robotNamespace/>
+        <linkName>rover/imu_link</linkName>
+        <imuTopic>/imu</imuTopic>
+        <gyroscopeNoiseDensity>0.0003394</gyroscopeNoiseDensity>
+        <gyroscopeRandomWalk>3.8785e-05</gyroscopeRandomWalk>
+        <gyroscopeBiasCorrelationTime>1000.0</gyroscopeBiasCorrelationTime>
+        <gyroscopeTurnOnBiasSigma>0.0087</gyroscopeTurnOnBiasSigma>
+        <accelerometerNoiseDensity>0.004</accelerometerNoiseDensity>
+        <accelerometerRandomWalk>0.006</accelerometerRandomWalk>
+        <accelerometerBiasCorrelationTime>300.0</accelerometerBiasCorrelationTime>
+        <accelerometerTurnOnBiasSigma>0.196</accelerometerTurnOnBiasSigma>
+      </plugin>
+      <plugin name='groundtruth_plugin' filename='libgazebo_groundtruth_plugin.so'>
+        <robotNamespace/>
+      </plugin>
+      <plugin name='magnetometer_plugin' filename='libgazebo_magnetometer_plugin.so'>
+        <robotNamespace/>
+        <pubRate>20</pubRate>
+        <noiseDensity>0.0004</noiseDensity>
+        <randomWalk>6.4e-06</randomWalk>
+        <biasCorrelationTime>600</biasCorrelationTime>
+        <magTopic>/mag</magTopic>
+      </plugin>
+      <plugin name='barometer_plugin' filename='libgazebo_barometer_plugin.so'>
+        <robotNamespace/>
+        <pubRate>10</pubRate>
+        <baroTopic>/baro</baroTopic>
+      </plugin>
+      <plugin name='mavlink_interface' filename='libgazebo_mavlink_interface.so'>
+        <robotNamespace/>
+        <imuSubTopic>/imu</imuSubTopic>
+        <magSubTopic>/mag</magSubTopic>
+        <baroSubTopic>/baro</baroSubTopic>
+        <mavlink_addr>INADDR_ANY</mavlink_addr>
+        <mavlink_tcp_port>4560</mavlink_tcp_port>
+        <mavlink_udp_port>14560</mavlink_udp_port>
+        <serialEnabled>0</serialEnabled>
+        <serialDevice>/dev/ttyACM0</serialDevice>
+        <baudRate>921600</baudRate>
+        <qgc_addr>INADDR_ANY</qgc_addr>
+        <qgc_udp_port>14550</qgc_udp_port>
+        <sdk_addr>INADDR_ANY</sdk_addr>
+        <sdk_udp_port>14540</sdk_udp_port>
+        <hil_mode>0</hil_mode>
+        <hil_state_level>0</hil_state_level>
+        <enable_lockstep>1</enable_lockstep>
+        <use_tcp>1</use_tcp>
+        <motorSpeedCommandPubTopic>/gazebo/command/motor_speed</motorSpeedCommandPubTopic>
+        <control_channels>
+          <channel name='left_front_wheel_drive'>
+            <input_index>0</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>40</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>0</zero_position_armed>
+            <joint_control_type>velocity</joint_control_type>
+            <joint_name>lf_wheel_joint</joint_name>
+            <joint_control_pid>
+              <p>0.1</p>
+              <i>0</i>
+              <d>0</d>
+              <iMax>800</iMax>
+              <iMin>-800</iMin>
+              <cmdMax>1200</cmdMax>
+              <cmdMin>-1200</cmdMin>
+            </joint_control_pid>
+          </channel>
+          <channel name='left_back_wheel_drive'>
+            <input_index>1</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>40</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>0</zero_position_armed>
+            <joint_control_type>velocity</joint_control_type>
+            <joint_name>lb_wheel_joint</joint_name>
+            <joint_control_pid>
+              <p>0.1</p>
+              <i>0</i>
+              <d>0</d>
+              <iMax>800</iMax>
+              <iMin>-800</iMin>
+              <cmdMax>1200</cmdMax>
+              <cmdMin>-1200</cmdMin>
+            </joint_control_pid>
+          </channel>
+          <channel name='right_front_wheel_drive'>
+            <input_index>5</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>40</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>0</zero_position_armed>
+            <joint_control_type>velocity</joint_control_type>
+            <joint_name>rf_wheel_joint</joint_name>
+            <joint_control_pid>
+              <p>0.1</p>
+              <i>0</i>
+              <d>0</d>
+              <iMax>800</iMax>
+              <iMin>-800</iMin>
+              <cmdMax>1200</cmdMax>
+              <cmdMin>-1200</cmdMin>
+            </joint_control_pid>
+          </channel>
+          <channel name='right_back_wheel_drive'>
+            <input_index>6</input_index>
+            <input_offset>0</input_offset>
+            <input_scaling>40</input_scaling>
+            <zero_position_disarmed>0</zero_position_disarmed>
+            <zero_position_armed>0</zero_position_armed>
+            <joint_control_type>velocity</joint_control_type>
+            <joint_name>rb_wheel_joint</joint_name>
+            <joint_control_pid>
+              <p>0.1</p>
+              <i>0</i>
+              <d>0</d>
+              <iMax>800</iMax>
+              <iMin>-800</iMin>
+              <cmdMax>1200</cmdMax>
+              <cmdMin>-1200</cmdMin>
+            </joint_control_pid>
+          </channel>
+        </control_channels>
+      </plugin>
+      <pose>0.36934 -0.253699 0 0 -0 0</pose>
+    </model>
+    <model name='hatchback_red'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='collision'>
+          <pose>0 0 0 0 -0 1.5708</pose>
+          <geometry>
+            <mesh>
+              <scale>0.0254 0.0254 0.0254</scale>
+              <uri>/home/drone/.ignition/fuel/fuel.gazebosim.org/ruth/models/hatchback_red/1/meshes/hatchback_red.obj</uri>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <pose>0 0 0 0 -0 1.5708</pose>
+          <geometry>
+            <mesh>
+              <scale>0.0254 0.0254 0.0254</scale>
+              <uri>/home/drone/.ignition/fuel/fuel.gazebosim.org/ruth/models/hatchback_red/1/meshes/hatchback_red.obj</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>3.23489 2.47203 0 0 -0 0</pose>
+    </model>
+    <model name='Stop Sign'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>https://fuel.gazebosim.org/1.0/chapulina/models/stop sign with spaces/2/files/meshes/stop sign.dae</uri>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>https://fuel.gazebosim.org/1.0/chapulina/models/stop sign with spaces/2/files/meshes/stop sign.dae</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <uri>https://fuel.gazebosim.org/1.0/chapulina/models/stop sign with spaces/2/files/materials/scripts</uri>
+              <uri>https://fuel.gazebosim.org/1.0/chapulina/models/stop sign with spaces/2/files/materials/textures</uri>
+              <name>StopSign/Diffuse</name>
+            </script>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>1.8882 -2.27868 0 0 -0 0</pose>
+    </model>
+    <model name='grocery_store'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='collision'>
+          <pose>0 0 4.04605 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>32.1985 17.5425 8.09209</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <pose>0 -1.96155 0 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://grocery_store/meshes/grocery_store.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>6.60323 33.0036 0 0 -0 0</pose>
+    </model>
+    <model name='House 1'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://house_1/meshes/house_1.dae</uri>
+              <scale>1.5 1.5 1.5</scale>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://house_1/meshes/house_1.dae</uri>
+              <scale>1.5 1.5 1.5</scale>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://house_1/materials/scripts</uri>
+              <uri>model://house_1/materials/textures</uri>
+              <name>House_1/Diffuse</name>
+            </script>
+            <shader type='normal_map_tangent_space'>
+              <normal_map>House_1_Normal.png</normal_map>
+            </shader>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-19.3929 31.3677 0 0 -0 0</pose>
+    </model>
+    <model name='Gas Station'>
+      <static>1</static>
+      <link name='link'>
+        <pose>0 0 0 0 -0 0</pose>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://gas_station/meshes/gas_station.dae</uri>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://gas_station/meshes/gas_station.dae</uri>
+            </mesh>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://gas_station/materials/scripts</uri>
+              <uri>model://gas_station/materials/textures</uri>
+              <name>GasStation/Diffuse</name>
+            </script>
+            <shader type='normal_map_tangent_space'>
+              <normal_map>GasStation_Normal.png</normal_map>
+            </shader>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>6.20761 -9.55108 0 0 -0 0</pose>
+    </model>
+    <model name='parking_garage'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://parking_garage/meshes/parking_garage.dae</uri>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://parking_garage/meshes/parking_garage.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>65.8378 41.6902 0 0 -0 0</pose>
+    </model>
+    <model name='stop_light_post'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='post'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light_post/meshes/stop_light_post.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='post'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light_post/meshes/stop_light_post.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <frame name='right_light::__model__' attached_to='right_light::link'>
+        <pose relative_to='__model__'>0 -0.05 4 0 -0 0</pose>
+      </frame>
+      <static>1</static>
+      <link name='right_light::link'>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light/meshes/stop_light.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='frame'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light/meshes/stop_light.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+        </visual>
+        <visual name='red'>
+          <pose>-0.001123 -0.082251 -0.147514 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>1 0 0 1</ambient>
+            <specular>1 0 0 1</specular>
+          </material>
+        </visual>
+        <visual name='yellow'>
+          <pose>-0.001123 -0.082251 -0.402 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>1 1 0 1</ambient>
+            <specular>1 1 0 1</specular>
+          </material>
+        </visual>
+        <visual name='green'>
+          <pose>-0.001123 -0.082251 -0.655 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>0 1 0 1</ambient>
+            <specular>0 1 0 1</specular>
+          </material>
+        </visual>
+        <pose relative_to='right_light::__model__'>0 0 0 0 -0 0</pose>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <frame name='center_light::__model__' attached_to='center_light::link'>
+        <pose relative_to='__model__'>-2 0.04 5.82 0 -0 0</pose>
+      </frame>
+      <static>1</static>
+      <link name='center_light::link'>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light/meshes/stop_light.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='frame'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light/meshes/stop_light.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+        </visual>
+        <visual name='red'>
+          <pose>-0.001123 -0.082251 -0.147514 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>1 0 0 1</ambient>
+            <specular>1 0 0 1</specular>
+          </material>
+        </visual>
+        <visual name='yellow'>
+          <pose>-0.001123 -0.082251 -0.402 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>1 1 0 1</ambient>
+            <specular>1 1 0 1</specular>
+          </material>
+        </visual>
+        <visual name='green'>
+          <pose>-0.001123 -0.082251 -0.655 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>0 1 0 1</ambient>
+            <specular>0 1 0 1</specular>
+          </material>
+        </visual>
+        <pose relative_to='center_light::__model__'>0 0 0 0 -0 0</pose>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-3.13842 0.803464 0 0 -0 0</pose>
+    </model>
+    <model name='stop_light_post_0'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='post'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light_post/meshes/stop_light_post.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='post'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light_post/meshes/stop_light_post.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <frame name='right_light::__model__' attached_to='right_light::link'>
+        <pose relative_to='__model__'>0 -0.05 4 0 -0 0</pose>
+      </frame>
+      <static>1</static>
+      <link name='right_light::link'>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light/meshes/stop_light.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='frame'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light/meshes/stop_light.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+        </visual>
+        <visual name='red'>
+          <pose>-0.001123 -0.082251 -0.147514 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>1 0 0 1</ambient>
+            <specular>1 0 0 1</specular>
+          </material>
+        </visual>
+        <visual name='yellow'>
+          <pose>-0.001123 -0.082251 -0.402 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>1 1 0 1</ambient>
+            <specular>1 1 0 1</specular>
+          </material>
+        </visual>
+        <visual name='green'>
+          <pose>-0.001123 -0.082251 -0.655 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>0 1 0 1</ambient>
+            <specular>0 1 0 1</specular>
+          </material>
+        </visual>
+        <pose relative_to='right_light::__model__'>0 0 0 0 -0 0</pose>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <frame name='center_light::__model__' attached_to='center_light::link'>
+        <pose relative_to='__model__'>-2 0.04 5.82 0 -0 0</pose>
+      </frame>
+      <static>1</static>
+      <link name='center_light::link'>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light/meshes/stop_light.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='frame'>
+          <geometry>
+            <mesh>
+              <uri>model://stop_light/meshes/stop_light.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
+            </mesh>
+          </geometry>
+        </visual>
+        <visual name='red'>
+          <pose>-0.001123 -0.082251 -0.147514 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>1 0 0 1</ambient>
+            <specular>1 0 0 1</specular>
+          </material>
+        </visual>
+        <visual name='yellow'>
+          <pose>-0.001123 -0.082251 -0.402 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>1 1 0 1</ambient>
+            <specular>1 1 0 1</specular>
+          </material>
+        </visual>
+        <visual name='green'>
+          <pose>-0.001123 -0.082251 -0.655 0 -0 0</pose>
+          <geometry>
+            <sphere>
+              <radius>0.1012</radius>
+            </sphere>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://stop_light/materials/scripts/</uri>
+              <uri>model://stop_light/materials/textures/</uri>
+              <name>StopLight/Light</name>
+            </script>
+            <ambient>0 1 0 1</ambient>
+            <specular>0 1 0 1</specular>
+          </material>
+        </visual>
+        <pose relative_to='center_light::__model__'>0 0 0 0 -0 0</pose>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-5.54132 0.831786 0 0 -0 0</pose>
+    </model>
+    <model name='hatchback'>
+      <static>1</static>
+      <link name='link'>
+        <collision name='collision'>
+          <pose>0 0 0 0 -0 1.5708</pose>
+          <geometry>
+            <mesh>
+              <scale>0.0254 0.0254 0.0254</scale>
+              <uri>model://hatchback/meshes/hatchback.obj</uri>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <pose>0 0 0 0 -0 1.5708</pose>
+          <geometry>
+            <mesh>
+              <scale>0.0254 0.0254 0.0254</scale>
+              <uri>model://hatchback/meshes/hatchback.obj</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-2.84159 4.20081 0 0 -0 0</pose>
+    </model>
+    <gui fullscreen='0'>
+      <camera name='user_camera'>
+        <pose>-3.967 1.60246 3.47762 0 0.248962 -0.237969</pose>
+        <view_controller>orbit</view_controller>
+        <projection_type>perspective</projection_type>
+      </camera>
+    </gui>
+  </world>
+</sdf>
