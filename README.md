@@ -14,6 +14,8 @@ Functional Features of the Solution:
 5. Drone identifying signs and traffic lights.
 6. Drone detecting traffic violations.
 
+Tecnology stack: Gazebo, Ardupilot, Python, YOLO8, ROS, OpenCV   
+
 ANT Team:
 
 | Name  | Role | Responsibilities  |
@@ -46,6 +48,8 @@ Kanban board with tasks
 4. Определение знаков и светофоров ровером.
 5. Определение знаков и светофоров дроном.
 6. Определение нарушений ПДД дроном.
+
+Стек: Gazebo, Ardupilot, Python, YOLO8, ROS, OpenCV   
   
 Команда ANT:
 
