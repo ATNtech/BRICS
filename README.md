@@ -63,10 +63,12 @@ https://docs.google.com/document/d/1y3nkBxFFLGJGYDrhgnNVdLZFFnp5tQ7g9LXwzE3qUSI/
 Project presentation on Canva: https://www.canva.com/design/DAGRjsT2eME/z8RH4c5LDHiUogCHgLfhbQ/view?utm_content=DAGRjsT2eME&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Or pptx here: [presentation]([https://github.com/ATNtech/BRICS/tree/main/launchp](https://github.com/ATNtech/BRICS/blob/main/ANT_rover_drone.pptx)
-Разработка системы для автономного движения ровера по дорогам общего пользования в содействии с дроном.  
 
 
 ## Russian bref
+
+Разработка системы для автономного движения ровера по дорогам общего пользования в содействии с дроном.  
+
 
 Целью является создание системы, которая позволит роверу распозновать ситуацию на дороге и совершать автономные передвежения по ней.  
 Так-же разрабатывается анологичная система для дрона, который будет передавать информации о дороге роверу  
