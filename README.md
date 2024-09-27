@@ -9,19 +9,19 @@ A similar system is also being developed for the drone, which will transmit info
 Such a system can be used for self-driving cars and provide them with increased safety on the road due to the additional view from the drone,   
 that can see the situation on the road from an aerial view.
 
-Functional Features of the Solution:
-1.  Drone following a rover.
+## Functional Features of the Solution:
+1. Drone following a rover.
 2. Rover moving along a route. 
 3. Rover stopping on command from the drone.
 4. Rover identifying signs and traffic lights.
 5. Drone identifying signs and traffic lights.
 6. Drone detecting traffic violations.
 
-Technology stack: Gazebo, Ardupilot, Python, YOLO8, ROS, OpenCV   
+## Technology stack: Gazebo, Ardupilot, Python, YOLO8, ROS, OpenCV   
 
 ![Screenshot_world](https://github.com/ATNtech/BRICS/blob/main/examples/Screenshot%20from%202024-09-26%2020-27-20.png)
 
-ANT Team:
+## ANT Team:
 
 | Name  | Role | Responsibilities  |
 | ------------- | ------------- | ------------- |
@@ -31,7 +31,23 @@ ANT Team:
 | Ermakov Nikita | Machine Learning Specialist | Setting up machine learning models |  
 
 ![Screencast_3dview](https://github.com/ATNtech/BRICS/blob/main/examples/3dView.gif)
-  
+
+## Change-log
+
+- New Yolo8 consistent model use added
+- Gazebo world optimization 
+- Presentation and media added
+- ✨Magic ✨
+
+## Installation and launch
+
+Project requires [Gazebo simulator](https://gazebosim.org/) to run.
+
+Gazebo world is in dir [https://github.com/ATNtech/BRICS/tree/main/world](https://github.com/ATNtech/BRICS/tree/main/world).
+Use models from  [https://github.com/ATNtech/BRICS/blob/main/GazeboModels.zip](https://github.com/ATNtech/BRICS/blob/main/GazeboModels.zip).
+Launch simulation with [https://github.com/ATNtech/BRICS/tree/main/launch](https://github.com/ATNtech/BRICS/tree/main/launchp).
+
+## Project plan: 
 Link to excel with tasks   
 https://docs.google.com/spreadsheets/d/1qRpqb2FO7hgjN-KlwgKyATPJQn8t5vvJ1AEydgEu26M/edit?usp=sharing 
 
@@ -42,10 +58,14 @@ Kanban board with tasks
 Test Plan
 https://docs.google.com/document/d/1y3nkBxFFLGJGYDrhgnNVdLZFFnp5tQ7g9LXwzE3qUSI/edit?usp=sharing
 
+## Presentation
 Project presentation on Canva: https://www.canva.com/design/DAGRjsT2eME/z8RH4c5LDHiUogCHgLfhbQ/view?utm_content=DAGRjsT2eME&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-        
+Or pptx here: [presentation]([https://github.com/ATNtech/BRICS/tree/main/launchp](https://github.com/ATNtech/BRICS/blob/main/ANT_rover_drone.pptx)
 Разработка системы для автономного движения ровера по дорогам общего пользования в содействии с дроном.  
+
+
+## Russian bref
 
 Целью является создание системы, которая позволит роверу распозновать ситуацию на дороге и совершать автономные передвежения по ней.  
 Так-же разрабатывается анологичная система для дрона, который будет передавать информации о дороге роверу  
