@@ -26,6 +26,8 @@ ANT Team:
 | Akulin Maxim | Programmer | Combining different components |
 | Garchev Vladislav | Drone Specialist | Drone customization and assembly |
 | Ermakov Nikita | Machine Learning Specialist | Setting up machine learning models |  
+
+![Screencast_3dview](https://github.com/ATNtech/BRICS/blob/main/examples/3dView.gif)
   
 Link to excel with tasks   
 https://docs.google.com/spreadsheets/d/1qRpqb2FO7hgjN-KlwgKyATPJQn8t5vvJ1AEydgEu26M/edit?usp=sharing 
