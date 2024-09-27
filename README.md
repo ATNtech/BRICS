@@ -64,7 +64,7 @@ https://docs.google.com/document/d/1y3nkBxFFLGJGYDrhgnNVdLZFFnp5tQ7g9LXwzE3qUSI/
 ## Presentation
 Project presentation on Canva: https://www.canva.com/design/DAGRjsT2eME/z8RH4c5LDHiUogCHgLfhbQ/view?utm_content=DAGRjsT2eME&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-Or pptx here: [presentation]([https://github.com/ATNtech/BRICS/tree/main/launchp](https://github.com/ATNtech/BRICS/blob/main/ANT_rover_drone.pptx)
+Or pptx here: [presentation](https://github.com/ATNtech/BRICS/blob/main/ANT_rover_drone.pptx)
 
 
 ## Russian bref
