@@ -1,5 +1,5 @@
 # BRICS
-![Static Badge](https://img.shields.io/badge/language-python-blue) ![Static Badge_2](https://img.shields.io/badge/neural_net-yolo8-orange)![Static Badge3](https://img.shields.io/badge/world-Gazebo-purple)
+![Static Badge](https://img.shields.io/badge/language-python-blue) ![Static Badge_2](https://img.shields.io/badge/neural_net-yolo8-orange)  ![Static Badge3](https://img.shields.io/badge/world-Gazebo-purple)
 
 
 # Development of a system for autonomous movement of a rover on public roads in cooperation with a drone.    
