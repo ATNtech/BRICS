@@ -35,6 +35,8 @@ Kanban board with tasks
 Test Plan
 https://docs.google.com/document/d/1y3nkBxFFLGJGYDrhgnNVdLZFFnp5tQ7g9LXwzE3qUSI/edit?usp=sharing
 
+Project presentation on Canva: https://www.canva.com/design/DAGRjsT2eME/z8RH4c5LDHiUogCHgLfhbQ/view?utm_content=DAGRjsT2eME&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
         
 Разработка системы для автономного движения ровера по дорогам общего пользования в содействии с дроном.  
 
@@ -70,3 +72,5 @@ https://docs.google.com/spreadsheets/d/1qRpqb2FO7hgjN-KlwgKyATPJQn8t5vvJ1AEydgEu
 
 Тест план:
 https://docs.google.com/document/d/1y3nkBxFFLGJGYDrhgnNVdLZFFnp5tQ7g9LXwzE3qUSI/edit?usp=sharing
+
+Презентация в Canva: https://www.canva.com/design/DAGRjsT2eME/z8RH4c5LDHiUogCHgLfhbQ/view?utm_content=DAGRjsT2eME&utm_campaign=designshare&utm_medium=link&utm_source=editor
