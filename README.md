@@ -16,6 +16,8 @@ Functional Features of the Solution:
 
 Technology stack: Gazebo, Ardupilot, Python, YOLO8, ROS, OpenCV   
 
+![Screenshot_world](https://github.com/ATNtech/BRICS/blob/main/examples/Screenshot%20from%202024-09-26%2020-27-20.png)
+
 ANT Team:
 
 | Name  | Role | Responsibilities  |
