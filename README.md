@@ -44,9 +44,9 @@ Gazebo, Ardupilot, Python, YOLO8, ROS, OpenCV
 
 Project requires [Gazebo simulator](https://gazebosim.org/) to run.
 
-Gazebo world is in dir [https://github.com/ATNtech/BRICS/tree/main/world](https://github.com/ATNtech/BRICS/tree/main/world).
-Use models from  [https://github.com/ATNtech/BRICS/blob/main/GazeboModels.zip](https://github.com/ATNtech/BRICS/blob/main/GazeboModels.zip).
-Launch simulation with [https://github.com/ATNtech/BRICS/tree/main/launch](https://github.com/ATNtech/BRICS/tree/main/launchp).
+- Gazebo world is in dir [https://github.com/ATNtech/BRICS/tree/main/world](https://github.com/ATNtech/BRICS/tree/main/world).
+- Use models from  [https://github.com/ATNtech/BRICS/blob/main/GazeboModels.zip](https://github.com/ATNtech/BRICS/blob/main/GazeboModels.zip).
+- Launch simulation with [https://github.com/ATNtech/BRICS/tree/main/launch](https://github.com/ATNtech/BRICS/tree/main/launchp).
 
 ## Project plan: 
 Link to excel with tasks   
