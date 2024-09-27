@@ -22,6 +22,8 @@ Gazebo, Ardupilot, Python, YOLO8, ROS, OpenCV
 
 ![Screenshot_world](https://github.com/ATNtech/BRICS/blob/main/examples/Screenshot%20from%202024-09-26%2020-27-20.png)
 
+![Screenshot_yolo8](https://github.com/ATNtech/BRICS/blob/main/examples/photo_2024-09-27_08-26-16.jpg)
+
 ## ANT Team:
 
 | Name  | Role | Responsibilities  |
